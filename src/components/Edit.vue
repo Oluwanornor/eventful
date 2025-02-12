@@ -46,7 +46,7 @@
           Details
         </label>
         <button
-          class="mt-2 block w-full h-70 px-3 py-2 border border-[#707070] text-justify rounded-md text-sm sm:text-base"
+          class="mt-2 block w-full h-full px-3 py-2 border border-[#707070] text-justify rounded-md  text-sm sm:text-base"
         >
           Until recently, the prevailing view assumed lorem ipsum was born as a
           nonsense text. “It’s not Latin, though it looks like it, and it
